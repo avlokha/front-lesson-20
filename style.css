@@ -74,7 +74,7 @@ tr td {
 }
 
 .modal {
-  background-color: rgb(166, 134, 134);
+  background-color: rgba(222, 154, 154, 0.648);
   width: 30%;
   height: 60%;
   display: flex;
