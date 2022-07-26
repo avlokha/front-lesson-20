@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1500px;
+  width: 100%;
+  margin: 0 auto;
+}
+table {
+  width: 1400px;
+}
+.edit {
+  background-color: rgb(95, 244, 95);
+  height: 30px;
+  width: 60px;
+  align-items: center;
+  border-style: none;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-right: 5%;
+  cursor: pointer;
+}
+.delete {
+  background-color: red;
+  height: 30px;
+  width: 60px;
+  align-items: center;
+  border-style: none;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-left: 5%;
+  cursor: pointer;
+}
+
+tr td {
+  text-align: center;
+}
+.big {
+  height: 40px;
+  font-size: 18px;
+}
+.newuser {
+  text-align: center;
+  margin-top: 1%;
+}
+.newuser button {
+  background-color: rgb(95, 244, 95);
+  border-style: none;
+  cursor: pointer;
+  height: 30px;
+  width: 100px;
+  color: white;
+  border-radius: 5px;
+}
